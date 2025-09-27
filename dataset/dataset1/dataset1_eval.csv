@@ -1,0 +1,4 @@
+qid,question,gold_answer,gold_doc
+q1,What is at the center of the Solar System?,The Sun,solar_system
+q2,Which planet is known for its rings?,Saturn,solar_system
+q3,What is the Kuiper belt?,A region beyond Neptune containing small icy bodies,solar_system

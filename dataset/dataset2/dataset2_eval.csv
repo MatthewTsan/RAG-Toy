@@ -1,0 +1,6 @@
+qid,question,gold_answer,gold_doc
+q1,How long is Earth's orbital period?,About 365 days (1 year),earth
+q2,Which planet has the Great Red Spot?,Jupiter,jupiter
+q3,What is a natural satellite of Earth?,The Moon,moon
+q4,Why is Mars called the Red Planet?,Because iron oxide dust makes it look red,mars
+q5,What type of star is the Sun?,A G-type main-sequence star,sun

@@ -1,0 +1,5 @@
+qid,question,gold_answer,gold_doc
+q1,When did Apollo 11 land on the Moon (UTC)?,20 July 1969,apollo11
+q2,Who was the first person to step on the Moon?,Neil Armstrong,armstrong
+q3,What rocket launched Apollo 11?,Saturn V,saturnv
+q4,Who was the command module pilot?,Michael Collins,apollo11
